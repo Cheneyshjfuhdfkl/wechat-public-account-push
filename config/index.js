@@ -58,15 +58,17 @@ export const config = {
       ]
     },
     {
-      name: "老婆1",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
+      name: "小婧",
+      id: "oKU2C6gIau5m0RHyDNaYycModtfc",
+      useTemplateId: "xGuzRoy0yOcRoGGjfdK8RHuu74pfoYZz-IvewOHOs5Q",
+      province: "天津",
+      city: "津南",
+      horoscopeDate: '10-15',
+      horoscopeDateType: '今日',
+      //openUrl: "https://wangxinleo.cn",
+      festivals: [
+        {"type": "*生日", "name": "公主旧历", "year": "2000", "date": "09-18"},
+        {"type": "生日", "name": "公主新历", "year": "2000", "date": "10-15"},],
       customizedDateList: []
     },
     {
